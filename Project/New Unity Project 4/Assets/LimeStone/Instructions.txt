@@ -1,0 +1,13 @@
+LimeStone is a node-based procedural terrain generator  for Unity. 
+
+We recommend you to visit our homepage http://www.lemonspawn.com for video tutorials and general instructions.
+
+Terrains are located under Assets/LimeStone/Data/Terrains, but can be placed anywhere you desire.
+
+To start LimeStone, select Window/LemonSpawn/LimeStone and dock the editor window at a suitable place. 
+Right-click to add nodes to the canvas, such as terrain or alpha generators. Click on the header button on each
+ node to assemble that particular node (including its children). Again, we strongly encourage you to check out the video tutorials!
+
+
+
+
